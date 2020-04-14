@@ -1,1 +1,1 @@
-I am enrolled Colt Steele Javascript Algorithms and Data Structures Masterclass!
+I am enrolled in Colt Steele's Javascript Algorithms and Data Structures Masterclass!
